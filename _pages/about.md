@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Email: amasoumi@ualberta.ca</p>
     <p>Can be found in either</p>
     <p>CSC 2-11 or ATH 1-24</p>
-    <p></p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,8 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I'm Alireza, a second-year master's student in computing science at the University of Alberta, working under the supervision of [James Wright](https://jrwright.info/). I obtained my bachelor's in Electrical Engineering and Mathematics (minor degree) from Sharif University of Technology in Iran.
 
-I work in the intersection of Game Theory and RL Theory. I'm also a fan of online decision-making (preferably under uncertainty!), mechanism design, and statistical learning.
-
+I work in the intersection of Game Theory and RL theory. I'm also a fan of online decision-making (preferably under uncertainty and by multiple agents!), mechanism design, and statistical learning.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
