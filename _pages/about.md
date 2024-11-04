@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: amasoumi@ualberta.ca</p>
-    <p>Can be found in either</p>
-    <p>CSC 2-11 or ATH 1-24</p>
+    <p></p>
+    <p>Office: ATH 1-24, University of Alberta</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
