@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: https://masoumian.github.io/assets/pdf/example_pdf.pdf
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
