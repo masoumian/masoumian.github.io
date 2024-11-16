@@ -3,7 +3,7 @@ layout: cv
 # permalink: /cv/
 permalink: /assets/pdf/example_pdf.pdf
 # permalink: <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer"></a>
-title: cv
+title: CV
 nav: false
 nav_order: 5
 cv_pdf: example_pdf.pdf

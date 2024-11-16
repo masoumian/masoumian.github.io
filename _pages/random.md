@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /random/
-title: random
+title: Random
 description: A collection of books, website, talks, etc that I've found cool!
 nav: true
 nav_order: 8
@@ -9,7 +9,7 @@ nav_order: 8
 
 __Career:__
 - Talk by Richard Hamming: [You and Your Research](https://youtu.be/a1zDuOPkMSw?si=gKp535nRyjBFV1TB)  
-- [80000hours](https://80000hours.org/) An their [book](https://80000hours.org/book/)
+- [80000hours](https://80000hours.org/) and their [book](https://80000hours.org/book/)
 
 __Game Theoretic Games!:__
 - [The Evolution of Trust](https://ncase.me/trust/)    

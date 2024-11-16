@@ -1,3 +1,3 @@
 I'm a second-year master's student in computing science at the University of Alberta, working under the supervision of [James Wright](https://jrwright.info/). I obtained my bachelor's in Electrical Engineering and Mathematics (minor degree) from Sharif University of Technology in Iran.
 
-I am interested in sequential decision-making under uncertainty and (preferably!) by multiple agents. This implies working in the intersection of Game Theory and RL theory. Learning in Games and Multi Agent Reinforcement Learning (MARL) are close keywords. I'm also a fan of mechanism design, and statistical learning.
+I am interested in sequential decision-making under uncertainty and (preferably!) by multiple agents. This implies working in the intersection of Game Theory, RL theory, and Online Learning. Learning in Games and Multi Agent Reinforcement Learning (MARL) are close keywords. I'm also a fan of Mechanism Design, and Statistical Learning.
