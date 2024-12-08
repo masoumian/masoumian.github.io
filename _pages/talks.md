@@ -15,7 +15,7 @@ __Course projects:__
 
 __My presentations mostly in our [reading group](https://jrwright.info/abgt.html):__ 
 - *Nov 2024:* Model Selection in RL and Its Connection
-To Utility Maximization ([Slides](https://drive.google.com/file/d/1OCLxaBKfiIkXhE93kiL_UhFN-Gr2Gb9x/view?usp=drive_link), [Arxiv](https://arxiv.org/abs/2411.06069)) 
+to Utility Maximization ([Slides](https://drive.google.com/file/d/17M2A0YpeZec43KATu-G3T2wfwQLdtt5O/view?usp=sharing), [Arxiv](https://arxiv.org/abs/2411.06069)) 
 - *Jun 2024:* The Complexity of Markov Equilibrium in Stochastic Games ([Slides](https://drive.google.com/file/d/12QgVZRXzrOjWZGHLzuGEfAnrKRQFmB0b/view?usp=sharing), [Arxiv](https://arxiv.org/abs/2204.03991)) 
 - *Mar 2024:* Is Learning in Gamees Good for The Learners? ([Slides](https://drive.google.com/file/d/1Z0PTWN3Mx3Xi49XscSDywkEf4tEfGn85/view?usp=drive_link), [Arxiv](https://arxiv.org/abs/2305.19496))  
 - *Feb 2024:* Policy Regret in Repeated Games ([Slides](https://drive.google.com/file/d/1a5y4BJhmsuTMhyO1LlvQec0w1on5429s/view?usp=sharing), [Arxiv](https://arxiv.org/abs/1811.04127))  

@@ -2,7 +2,7 @@
 layout: page
 permalink: /random/
 title: Random
-description: A collection of books, website, talks, etc that I've found cool!
+description: A collection of books, website, talks, quotes, etc
 nav: true
 nav_order: 8
 ---
@@ -23,9 +23,20 @@ __Other Resources for (Young) Students:__
 
 <!-- - game theory alive  
 - Noise/ Daniel Kahneman
+- Think Agian/ Adam Grant
 - Ethics/ Baruch Espinoza
 - Closer to Truth -->
 <!-- 
 __Research is not everything:__
 - Closer to Truth
+
+- "God does not play dice"
 -  -->
+
+__Probably Philosophical__
+
+- "Human is a border: We can only understand what we can understand."  
+- "Experiencing: Bandit Information  
+Reading History: Full Information"  
+- "With probability 1, there is a line passing through two random points,  
+With probability 0, there is a line passing through three random points."  
