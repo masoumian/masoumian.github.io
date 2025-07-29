@@ -10,17 +10,17 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: amasoumi@ualberta.ca</p>
-    <p>Office: 1-24 Athabasca Hall, CS Department, University of Alberta, Edmonton, Canada</p>
-    <p>T6G 2E8</p>
+ #   <p>Office: UCOMM Building, CS Center, University of Alberta, Edmonton, Canada</p>
+ #   <p>T6G 2E8</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Alireza, a second-year master's student in computing science at the University of Alberta, working under the supervision of [James Wright](https://jrwright.info/). I obtained my bachelor's in Electrical Engineering and Mathematics (minor degree) from Sharif University of Technology in Iran.
+Hi! I'm Alireza, a research assistant at the University of Alberta, working under the supervision of [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/). I obtained my MSc's in computing science supervised by [James Wright](https://jrwright.info/) at University of Alberta.  I completed my Bachelor's degree in Electrical Engineering with a minor in Mathematics at Sharif University of Technology in Iran.
 
-I am interested in sequential decision-making under uncertainty and (preferably!) by multiple agents. This implies working in the intersection of Game Theory, RL theory, and Online Learning. Learning in Games and Multi Agent Reinforcement Learning (MARL) are close keywords. I'm also a fan of Mechanism Design, and Statistical Learning.
+I am interested in the theory of sequential decision-making under uncertainty and (preferably!) in multi-agent settings. This implies working in the intersection of RL theory, Game Theory, and Online Learning. Learning in Games and Multi Agent Reinforcement Learning (MARL) are close keywords. I'm also a fan of Mechanism Design, and Statistical Learning.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

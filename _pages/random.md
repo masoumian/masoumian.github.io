@@ -2,7 +2,7 @@
 layout: page
 permalink: /random/
 title: Random
-description: A collection of books, website, talks, quotes, etc
+description: # A collection of books, website, talks, quotes, etc
 nav: true
 nav_order: 8
 ---

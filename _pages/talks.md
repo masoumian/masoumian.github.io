@@ -7,13 +7,10 @@ nav: true
 nav_order: 7
 ---
 <!-- __General talks:__ -->
-
-__Course projects:__
-- *Apr 2024:* Automated Mechanism Design ([Slides](/assets/pdf/slide/Automated%20Mechanism%20Desing.pdf), [Report](https://drive.google.com/file/d/1Fr2uymMsKjtWXSg6bLmoIzAYugM8m0BP/view?usp=drive_link))  
-- *Dec 2023:* Online Learnability and Complexity Measures ([Slides](/assets/pdf/slide/MLTheroy.pdf), [Report](https://drive.google.com/file/d/1bgZHdsLa7modYaOnJYmqHeoQw_EA_w-t/view?usp=drive_link))  
-- *Apr 2023:* Reward-free Reinforcement Learning ([Slides](/assets/pdf/slide/RL%20Theory%20Project.pdf))
-
-__My presentations mostly in our [reading group](https://jrwright.info/abgt.html):__ 
+__Presentations:__ 
+- *July 2025:* Linear Progrmming Formulation of RL ([Slides](https://drive.google.com/file/d/1X0GUdR55yMP5x3fT5hR14MsHOYOsgxci/view?usp=drive_link)) 
+- *Apr 2025:* Model Selection in RL and Its Connection
+to Utility Maximization/ (Thesis Presentation [Slides](https://drive.google.com/file/d/195AtC-zw3nVZJvjq3VWd0jOP4X4zLQib/view?usp=drive_link)) 
 - *Nov 2024:* Model Selection in RL and Its Connection
 to Utility Maximization ([Slides](https://drive.google.com/file/d/17M2A0YpeZec43KATu-G3T2wfwQLdtt5O/view?usp=sharing), [Arxiv](https://arxiv.org/abs/2411.06069)) 
 - *Jun 2024:* The Complexity of Markov Equilibrium in Stochastic Games ([Slides](https://drive.google.com/file/d/12QgVZRXzrOjWZGHLzuGEfAnrKRQFmB0b/view?usp=sharing), [Arxiv](https://arxiv.org/abs/2204.03991)) 
@@ -25,6 +22,11 @@ to Utility Maximization ([Slides](https://drive.google.com/file/d/17M2A0YpeZec43
 - *Mar 2023:* α-Rank: Multi-Agent Evaluation by Evolution ([Slides](https://drive.google.com/file/d/1tnMcMTu8vnq4SLt0483kTK9SGNXBeZ0n/view?usp=drive_link), [Arxiv](https://arxiv.org/abs/1903.01373)) 
 - *Jan 2023:* Iterative Empirical Game Solving via Single Policy Best Response ([Arxiv](https://arxiv.org/abs/2106.01901))  
 - *Nov 2022:* Empirical Mechanism Design: Methods, with Application to a Supply-Chain Scenario ([Arxiv](http://strategicreasoning.org/wp-content/uploads/2010/03/EmpiricalMechanismDesign1.pdf))
+
+__Course projects:__
+- *Apr 2024:* Automated Mechanism Design ([Slides](/assets/pdf/slide/Automated%20Mechanism%20Desing.pdf), [Report](https://drive.google.com/file/d/1Fr2uymMsKjtWXSg6bLmoIzAYugM8m0BP/view?usp=drive_link))  
+- *Dec 2023:* Online Learnability and Complexity Measures ([Slides](/assets/pdf/slide/MLTheroy.pdf), [Report](https://drive.google.com/file/d/1bgZHdsLa7modYaOnJYmqHeoQw_EA_w-t/view?usp=drive_link))  
+- *Apr 2023:* Reward-free Reinforcement Learning ([Slides](/assets/pdf/slide/RL%20Theory%20Project.pdf))
 
 __Talks in Persian (statistics [reading group](https://teias.institute/statistics-reading-group/)):__
 - *Feb 2021:* Bayesian Modeling of Human Decision-Making on Multi-Armed Bandits ([Video](https://drive.google.com/file/d/1m1gUzxNEPe5Uf1UaRJNu8LjREyRbZDFX/view?usp=sharing), [Slides](https://drive.google.com/file/d/16iS7Xf1PqmeaeFXDLYraXVy8b2Y95B2i/view?usp=drive_link))
