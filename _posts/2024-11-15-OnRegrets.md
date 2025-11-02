@@ -56,5 +56,5 @@ _styles: >
 
 <!-- You can read it [here](/assets/pdf/blog/On_Regrets.pdf) in PDF format. Will be added (really) like a blog post soon!! -->
 
-You can read it <a href="/assets/pdf/blog/On_Regrets.pdf" target="_blank">here</a> in PDF format. Will be added (really) like a blog post soon!!
+You can read it <a href="/assets/pdf/blog/On_Regrets.pdf" target="_blank">here</a> in PDF format!
 

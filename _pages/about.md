@@ -20,8 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm Alireza, a research assistant at the University of Alberta, working under the supervision of [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/). I obtained my MSc's in computing science supervised by [James Wright](https://jrwright.info/) at University of Alberta.  I completed my Bachelor's degree in Electrical Engineering with a minor in Mathematics at Sharif University of Technology in Iran.
 
-I am interested in the theory of sequential decision-making under uncertainty and (preferably!) in multi-agent settings. This implies working in the intersection of RL theory, Game Theory, and Online Learning. Learning in Games and Multi Agent Reinforcement Learning (MARL) are close keywords. I'm also a fan of Mechanism Design, and Statistical Learning.
-
+I am interested in the theory of sequential decision-making under uncertainty, and more specifically in making connections between game-theoretic ideas and reinforcement learning theory. This implies working in the intersection of RL theory, Game Theory, and Online Learning. I'm also a fan of Statistical Learning, and Mechanism Design.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
