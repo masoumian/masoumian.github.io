@@ -15,13 +15,14 @@ __Game Theoretic Games!:__
 - [The Evolution of Trust](https://ncase.me/trust/)    
 - [Voting](https://ncase.me/ballot/)
 
+__Books and Other Resources:__
+- On Game Theory: [Game Theory Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf), [Twenty Lectures on Algorithmic Game Theory](https://www.cambridge.org/core/books/twenty-lectures-on-algorithmic-game-theory/A9D9427C8F43E7DAEF8C702755B6D72B)
+- [Inequalities cheat sheet by László Kozma](https://www.lkozma.net/inequalities_cheat_sheet/)
+- On RL Theory: I recommend to start with bandits with this great book [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf), [RL Theory Website](https://rltheory.github.io/), [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+
 __Other Resources for (Young) Students:__
 
 - For freshmen, a great book to get introduced to game theory: [Insights into Game Theory](https://www.cambridge.org/core/books/insights-into-game-theory/02B5413B7B226A57FDA66A849FB90551)
-- Some other books on Game Theory: [Game Theory Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf), [Twenty Lectures on Algorithmic Game Theory](https://www.cambridge.org/core/books/twenty-lectures-on-algorithmic-game-theory/A9D9427C8F43E7DAEF8C702755B6D72B)
-- [Inequalities cheat sheet by László Kozma](https://www.lkozma.net/inequalities_cheat_sheet/)
-- Books on RL Theory: I recommend to start with bandits with this great book [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf), [RL Theory Website](https://rltheory.github.io/)
-
 - For high school students who enjoy solving math problems: [AoPS](https://artofproblemsolving.com/online)   
 - For even younger students (like middle school), this book is lovely!!: [Mathematical Circles (Russian Experience)](https://www.amazon.ca/Mathematical-Circles-Russian-Experience-Itenberg/dp/8173711151) (It's been translated in Persian with the title of محافل ریاضی)
 
