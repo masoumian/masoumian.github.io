@@ -6,23 +6,25 @@ description:
 nav: true
 nav_order: 6
 ---
-I have been teaching assistant for these courses:  
-- __Algorithms I__ (Winter 2025)  
-Under-grad. course/ Prof. Jia You $ Prof. Xiaoqi Tan
 
-- __[Machine Learning 1](https://vladtkachuk4.github.io/machinelearning1/)__ (Fall 2024)  
-Under-grad. course/ Vlad Tkachuk
+I have been teaching assistant for these courses:
 
-- __[Introduction to AI](https://jrwright.info/introai/winter2023/)__ (Winter 2023)  
-Under-grad. course/ Prof. James R. Wright
+- **Algorithms I** (Winter 2025)  
+  Under-grad. course/ Prof. Jia You $ Prof. Xiaoqi Tan
 
-- __High Dimensional Probability__ (Winter 2021)  
-Grad. courser / Prof. Mohammad Hossein Yassaee
+- **[Machine Learning 1](https://vladtkachuk4.github.io/machinelearning1/)** (Fall 2024)  
+  Under-grad. course/ Vlad Tkachuk
 
-- __Information Theory, Statistics, and Learning__ (Fall 2021)  
-Grad. course / Prof. Mohammad Hossein Yassaee
+- **[Introduction to AI](https://jrwright.info/introai/winter2023/)** (Winter 2023)  
+  Under-grad. course/ Prof. James R. Wright
 
-<!-- 
+- **High Dimensional Probability** (Winter 2021)  
+  Grad. courser / Prof. Mohammad Hossein Yassaee
+
+- **Information Theory, Statistics, and Learning** (Fall 2021)  
+  Grad. course / Prof. Mohammad Hossein Yassaee
+
+<!--
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
