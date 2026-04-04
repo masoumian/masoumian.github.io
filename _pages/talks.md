@@ -8,11 +8,11 @@ nav_order: 7
 ---
 <!-- __General talks:__ -->
 __Presentations:__ 
+- *Nov 2025:* On Different Notions of Regret ([Slides](https://drive.google.com/file/d/1WTMnGj-_SFJN1LwnKtOsRTZoI_Qo7bg6/view?usp=drive_link))
 - *July 2025:* Linear Progrmming Formulation of RL ([Slides](https://drive.google.com/file/d/1X0GUdR55yMP5x3fT5hR14MsHOYOsgxci/view?usp=drive_link)) 
 - *Apr 2025:* Model Selection in RL and Its Connection
-to Utility Maximization/ (Thesis Presentation [Slides](https://drive.google.com/file/d/195AtC-zw3nVZJvjq3VWd0jOP4X4zLQib/view?usp=drive_link)) 
-- *Nov 2024:* Model Selection in RL and Its Connection
-to Utility Maximization ([Slides](https://drive.google.com/file/d/17M2A0YpeZec43KATu-G3T2wfwQLdtt5O/view?usp=sharing), [Arxiv](https://arxiv.org/abs/2411.06069)) 
+to Utility Maximization ([Thesis](https://ualberta.scholaris.ca/items/9fc2638a-eac3-42a7-97e6-e8c2a2b06e79), [Slides](https://drive.google.com/file/d/195AtC-zw3nVZJvjq3VWd0jOP4X4zLQib/view?usp=drive_link) [Nov 2024, Slides](https://drive.google.com/file/d/17M2A0YpeZec43KATu-G3T2wfwQLdtt5O/view?usp=sharing)) 
+- *Nov 2024:* Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents ([Slides](https://drive.google.com/file/d/1-TYyn-OqKHJu32jha3iZtRcUtPJEcg-O/view?usp=drive_link), [Arxiv](https://arxiv.org/abs/2306.02704)) 
 - *Jun 2024:* The Complexity of Markov Equilibrium in Stochastic Games ([Slides](https://drive.google.com/file/d/12QgVZRXzrOjWZGHLzuGEfAnrKRQFmB0b/view?usp=sharing), [Arxiv](https://arxiv.org/abs/2204.03991)) 
 - *Mar 2024:* Is Learning in Gamees Good for The Learners? ([Slides](https://drive.google.com/file/d/1Z0PTWN3Mx3Xi49XscSDywkEf4tEfGn85/view?usp=drive_link), [Arxiv](https://arxiv.org/abs/2305.19496))  
 - *Feb 2024:* Policy Regret in Repeated Games ([Slides](https://drive.google.com/file/d/1a5y4BJhmsuTMhyO1LlvQec0w1on5429s/view?usp=sharing), [Arxiv](https://arxiv.org/abs/1811.04127))  
