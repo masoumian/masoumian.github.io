@@ -19,8 +19,8 @@ nav_order: 8
 
 **Books and Other Resources:**
 
-- On Game Theory: [Game Theory Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf), [Twenty Lectures on Algorithmic Game Theory](https://www.cambridge.org/core/books/twenty-lectures-on-algorithmic-game-theory/A9D9427C8F43E7DAEF8C702755B6D72B)
-- [Inequalities cheat sheet by László Kozma](https://www.lkozma.net/inequalities_cheat_sheet/)
+- On Game Theory: [Game Theory Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf), [Twenty Lectures on Algorithmic Game Theory](https://www.cambridge.org/core/books/twenty-lectures-on-algorithmic-game-theory/A9D9427C8F43E7DAEF8C702755B6D72B), [Prediction, Learing and Games](https://www.amazon.ca/Prediction-Learning-Games-Nicolo-Cesa-Bianchi/dp/0521841089)
+- Inequalities [cheat sheet](https://www.lkozma.net/inequalities_cheat_sheet/) by László Kozma
 - On RL Theory: I recommend to start with bandits with this great book [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf), [RL Theory Website](https://rltheory.github.io/), [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
 **Other Resources for (Young) Students:**

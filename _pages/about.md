@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Alireza, a research assistant at the University of Alberta, working under the supervision of [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/). I obtained my MSc's in computing science supervised by [James Wright](https://jrwright.info/) at University of Alberta. I completed my Bachelor's degree in Electrical Engineering with a minor in Mathematics at Sharif University of Technology in Iran.
+Hi! I'm Alireza, a first year PhD student at the University of Alberta, working under the supervision of [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/). I obtained my MSc's in computing science supervised by [James Wright](https://jrwright.info/) at University of Alberta. I completed my Bachelor's degree in Electrical Engineering with a minor in Mathematics at Sharif University of Technology in Iran.
 
 I am interested in the theory of sequential decision-making under uncertainty, and more specifically in making connections between reinforcement learning theory and game-theoretic ideas. This implies working in the intersection of RL theory, Game Theory, and Online Learning. I'm also a fan of Statistical Learning, and Mechanism Design.
 
