@@ -85,17 +85,21 @@ $$
 
 Obviously $$\mathcal{E} \subset \mathcal{S}$$ and $$\mathcal{I} \subset \mathcal{S}$$, meaning swap regret is a stronger notion than both external and internal. But there is an interesting connection between internal and swap regret.
 
+<!-- prettier-ignore-start -->
 > ##### Statement 3.1
 >
 > _Every no-internal regret algorithm is also a no-swap regret algorithm (and thus no-external regret)._
 {: .block-tip }
+<!-- prettier-ignore-end -->
 
 This result shows that the internal action modifiers in $$\mathcal{I}$$ are sufficient representatives for all action modifiers, in the sense that if $$\mathsf{Alg}$$ can compete with $$\mathcal{I}$$, then it also enjoys a sub-linear regret in the competition with $$\mathcal{S}$$. Also, note that the size of $$\mathcal{I}$$ is exponentially smaller than $$\vert\mathcal{S}\vert = \boldsymbol{A}^{\boldsymbol{A}}$$ in $$\boldsymbol{A}$$. Now you might be looking forward to seeing a no-internal regret algorithm! Another surprising result shows that they are not that out of reach! According to Blum-Mansour reduction, we know
 
+<!-- prettier-ignore-start -->
 > ##### Statement 3.2
 >
 > _Every no-external regret algorithm can be efficiently converted to a no-internal regret algorithm._
 {: .block-tip }
+<!-- prettier-ignore-end -->
 
 [Blum and Mansour (2007)](#ref-blum2007) obtained a swap regret in $$O(\sqrt{T \boldsymbol{A} \log(\boldsymbol{A})})$$ for full-information feedback. See this well-taught lecture by Tim Roughgarden ([link](https://youtu.be/XQ32p6clz9k)) for the proof. After tasting the beauty of this idea, you might think "Is it possible to drop that linear dependency on $$\boldsymbol{A}$$!?". Another important recent work ([Dagan et al., 2024](#ref-dagan2024)) shows that this can be done, at the cost of having exponential dependence on the error $$\epsilon$$.
 
@@ -132,10 +136,12 @@ $$
 
 $$V^*_H(s_1)$$ is the maximum cumulative utility that one can achieve in this adaptive setting starting from state $$s_1$$. Note that in this horizon, you might have ups and downs, sweet and bitter days, high and low immediate rewards, but the whole sequence of actions $$a^*_1, \dots, a^*_T$$, is designed to give you the highest cumulative reward. Now the question is "How can I get this well-tuned sequence of actions?". The fundamental theorem of RL states that,
 
+<!-- prettier-ignore-start -->
 > ##### Statement 5.1 (Fundamental theorem)
 >
 > _In a_ Markov _Decision Process (when the random variables of the current reward and the next state only depend on the current state and action, and not further in the past), the current state is all you need to know to take the optimal actions._
 {: .block-tip }
+<!-- prettier-ignore-end -->
 
 To say it a bit more fancy, there exists a memory-less deterministic optimal policy $$\pi^* : \mathcal{S} \to \mathcal{A}$$ such that $$V^*_H(s_1) = \sum_{t=1}^{H} r(s_t, \pi^*(s_t)) := V^{\pi^*}_H(s_1)$$. This means that the domain of maximization in equation \eqref{eq:vstar}, i.e. $$\mathcal{A}^H$$ can be replaced with the set of policies $$\mathcal{S}^A$$, which does not grow in $$H$$. Note that, defining proper states is crucial. On one hand, it should be rich enough to capture needed information in history to make Markov rewards and transitions, and on the other hand, the bigger the state space is the harder it is to find the optimal policy. This is studied in a research thread called _model selection_. Maybe I should have mentioned this earlier, but we do not have any discounting in rewards and this does not make any trouble as we assume a finite horizon. Now we can move on and use this competitor in different notions of regrets.
 
@@ -194,10 +200,12 @@ $$
 
 where $$a_1, \dots, a_t$$ is abbreviated by $$a_{1:t}$$. Also, it is assumed a competitor set $$\mathcal{C}_T$$ which the counterfactual sequences of actions belong to. Even for a simple $$\mathcal{C}_T$$, having no-policy regret algorithms is not possible ([Arora et al., 2012](#ref-arora2012)), i.e.
 
+<!-- prettier-ignore-start -->
 > ##### Statement 5.2
 >
 > _For any algorithm, and for $$\mathcal{C}_T$$ being the set of constant sequences of form $$(a, \dots, a)$$ for all $$a \in \mathcal{A}$$, there exists a sequence of utilities $$u_{1:T}$$ such that $$\mathsf{Reg}_P \in \Omega(T)$$._
 {: .block-tip }
+<!-- prettier-ignore-end -->
 
 However, the policy regret would not be that hopeless if we added some limitations on utility functions. Assume that there is a limited memory for the utility functions, i.e. only the last $$m$$ actions determine the current utility. In other words, $$u_t : \mathcal{A}^m \to \mathbb{R}$$. In this case, achieving sub-linear regret is feasible, usually with an exponent larger than $$\frac{1}{2}$$ for $$T$$ (see [Arora et al., 2012](#ref-arora2012)).
 

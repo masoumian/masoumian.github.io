@@ -9,22 +9,22 @@ nav_order: 6
 
 I have been teaching assistant for these courses:
 
-- **Search And Planning in AI**     
-  Under-grad. course/ Fall 2026 
+- **Search And Planning in AI**  
+  Under-grad. course/ Fall 2026
 
 - **Algorithms I**  
   Under-grad. course/ Winter 2025
 
-- **[Machine Learning 1](https://vladtkachuk4.github.io/machinelearning1/)**      
+- **[Machine Learning 1](https://vladtkachuk4.github.io/machinelearning1/)**  
   Under-grad. course/ Fall 2024
 
-- **[Introduction to AI](https://jrwright.info/introai/winter2023/)**   
+- **[Introduction to AI](https://jrwright.info/introai/winter2023/)**  
   Under-grad. course/ Winter 2023
 
-- **High Dimensional Probability**      
+- **High Dimensional Probability**  
   Grad. course / Winter 2021
 
-- **Information Theory, Statistics, and Learning**      
+- **Information Theory, Statistics, and Learning**  
   Grad. course / Fall 2021
 
 <!--

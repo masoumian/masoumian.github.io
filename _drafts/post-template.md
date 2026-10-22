@@ -54,24 +54,30 @@ $$
 
 ## Theorem-style blocks
 
+<!-- prettier-ignore-start -->
 > ##### Theorem 1
 >
 > For any $\delta \in (0,1)$, with probability at least $1-\delta$, the regret satisfies $R_T \le C \sqrt{T \log(1/\delta)}$.
 {: .block-tip }
+<!-- prettier-ignore-end -->
 
+<!-- prettier-ignore-start -->
 > ##### Remark
 >
 > Use `.block-tip` (green), `.block-warning` (yellow), or `.block-danger` (red).
 {: .block-warning }
+<!-- prettier-ignore-end -->
 
 ## Images and PDFs
 
 Put images in `assets/img/` and show them like this:
 
 {% raw %}
+
 ```liquid
 {% include figure.liquid loading="eager" path="assets/img/my-figure.png" class="img-fluid rounded" zoomable=true %}
 ```
+
 {% endraw %}
 
 Link a PDF the usual way: [read the PDF](/assets/pdf/blog/On_Regrets.pdf).
